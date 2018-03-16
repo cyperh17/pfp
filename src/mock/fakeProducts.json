@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": "30400f9b-505f-4b59-8786-bfa35a206ce9",
+      "categoryId": "ecb2a56e-70a5-4447-bafb-95a3c9598717",
+      "name": "Компьютер",
+      "registrationRef": "http://олег.com",
+      "stategyId": "74f46301-2752-4d8a-b11c-e6a19d34df58",
+      "incuranceCompanyId": "1baf560b-fe45-45cc-a855-ce2007b593c7",
+      "currencyIds": [
+        "17b7e5a6-ff6c-4a87-950a-9cdc3df0e4cd",
+        "3f404ddf-9d49-44a2-ba15-b3d3b1e3942b"
+      ],
+      "minClientAge": 11,
+      "maxClientAge": 24,
+      "minTerm": 1,
+      "maxTerm": 6,
+      "amountMin": 23715,
+      "amountMax": 8112943,
+      "return": 18,
+      "isRemoved": true
+    },
+    {
+      "id": "df00a1c3-256e-4301-8a80-b6322f0b0f4d",
+      "categoryId": "8806c6d5-fa1d-42f7-a10c-1b12f9985a4d",
+      "name": "Маршалловы Острова",
+      "registrationRef": "https://денис.com",
+      "stategyId": "0685109f-1389-4f8e-8e31-4a463d560189",
+      "incuranceCompanyId": "6cac3de4-00bb-4451-a51d-23a0e114343a",
+      "currencyIds": [
+        "1f1db4a2-fe7b-4ebe-8d26-8a6308d2c0ae"
+      ],
+      "minClientAge": 6,
+      "maxClientAge": 10,
+      "minTerm": 3,
+      "maxTerm": 2,
+      "amountMin": 95659,
+      "amountMax": 3475931,
+      "return": 7,
+      "isRemoved": false
+    },
+    {
+      "id": "a1c4193c-afba-4c9e-9b5f-8c2d24661870",
+      "categoryId": "eba5818a-3179-4ed8-8a10-0c75307c7c35",
+      "name": "Enterprise-wide",
+      "registrationRef": "https://вадим.com",
+      "stategyId": "7ba7a8a1-5786-4016-b215-75ee931e0684",
+      "incuranceCompanyId": "5491a3cb-6b21-4919-bfa5-1b33c630c0d5",
+      "currencyIds": [
+        "17b7e5a6-ff6c-4a87-950a-9cdc3df0e4cd"
+      ],
+      "minClientAge": 15,
+      "maxClientAge": 70,
+      "minTerm": 3,
+      "maxTerm": 4,
+      "amountMin": 67932,
+      "amountMax": 5129057,
+      "return": 43,
+      "isRemoved": false
+    }
+  ]
+}
